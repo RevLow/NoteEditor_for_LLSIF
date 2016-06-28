@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resume.png</file>
+        <file>Document-icon.png</file>
+        <file>Folder.png</file>
+        <file>Save.png</file>
+        <file>Pencil-icon.png</file>
+        <file>hand-icon.png</file>
+        <file>Pause-icon.png</file>
+        <file>Play-icon.png</file>
+        <file>jacketSample.png</file>
+        <file>draw-eraser-icon.png</file>
+        <file>LN_icon.png</file>
+        <file>Admin.png</file>
+        <file>Symbol_Play.png</file>
+        <file>Symbol_StepForward.png</file>
+    </qresource>
+    <qresource prefix="/new/sound">
+        <file>perfect.mp3</file>
+        <file>perfect.wav</file>
+    </qresource>
+</RCC>
